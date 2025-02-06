@@ -1,0 +1,6 @@
+{
+  "name": "BFP USDT",
+  "symbol": "BFPUSDT",
+  "description": "Example token from Solana Making a Token guide.",
+  "image": "https://raw.githubusercontent.com/ASu0322/sol-token/refs/heads/main/BFP.jpg"
+}
